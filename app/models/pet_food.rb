@@ -1,0 +1,2 @@
+class PetFood < ApplicationRecord
+end
